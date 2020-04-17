@@ -1,5 +1,5 @@
 <?php
-namespace Blopes\KnockoutStudy\Controller\Index;
+namespace Webjump\KnockoutStudy\Controller\Index;
 
 class Index extends \Magento\Framework\App\Action\Action
 {
